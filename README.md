@@ -1,6 +1,6 @@
 # COSC140 lab 1
 
-## Homework feedback
+## Lab feedback
 
  * How long did you spend on this lab?
 
